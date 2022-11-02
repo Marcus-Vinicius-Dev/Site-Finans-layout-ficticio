@@ -1,0 +1,13 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;/*o 60px serve pra cima e baixo e o 0 serve para direita e esquerda*/
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
